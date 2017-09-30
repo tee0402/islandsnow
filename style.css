@@ -7,5 +7,11 @@
 #middleMenu {
   box-shadow: none;
   border: none;
->>>>>>> middle-1
+}
+
+.grey-background {
+  background-color: #292929;
+  height: 300px;
+  padding: 40px 0;
+  color: white;
 }
