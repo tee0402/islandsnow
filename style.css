@@ -1,9 +1,10 @@
-.ui.borderless.menu {
+#topMenu {
   background-color: #f0f0f0;
   box-shadow: none;
   border: none;
 }
 
-.right.menu {
-  margin-right: 30px;
+#middleMenu {
+  box-shadow: none;
+  border: none;
 }
