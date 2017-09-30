@@ -1,5 +1,17 @@
+<<<<<<< HEAD
 .ui.borderless.menu {
   background-color: #f0f0f0;
   box-shadow: none;
   border: none;
+=======
+#topMenu {
+  background-color: #f0f0f0;
+  box-shadow: none;
+  border: none;
+}
+
+#middleMenu {
+  box-shadow: none;
+  border: none;
+>>>>>>> middle-1
 }
